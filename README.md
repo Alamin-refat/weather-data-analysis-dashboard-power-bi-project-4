@@ -137,5 +137,17 @@ weather-data-analysis-dashboard-power-bi-project-4/
 
 ---
 
+## 🔮 Future Improvements
+
+To enhance the depth and functionality of this dashboard, the following features are planned for future releases:
+
+- **Real-time Data Integration:** Connecting the dashboard to live weather APIs (e.g., OpenWeatherMap) for up-to-the-minute updates.
+- **Predictive Analytics:** Implementing Machine Learning models to forecast temperature and precipitation trends for the upcoming week.
+- **Geospatial Deep-Dive:** Adding a detailed map-based analysis to compare weather conditions across different regions and cities.
+- **Automated Weather Alerts:** Setting up automated notifications for extreme weather conditions like heatwaves or heavy storms.
+- **Historical Year-over-Year (YoY) Analysis:** Comparing current weather data with historical trends from previous years to identify long-term climate changes.
+
+---
+
 
 
