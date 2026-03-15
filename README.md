@@ -1,5 +1,7 @@
 # 🌤 Weather Analytics Dashboard | Power BI
 
+![Dashboard Preview](Screenshots/weather.png)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
 ![Data Visualization](https://img.shields.io/badge/Data-Visualization-orange)
