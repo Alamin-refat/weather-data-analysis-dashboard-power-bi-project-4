@@ -97,3 +97,27 @@ A percentage-based visualization indicating the **chance of rainfall across diff
 
 ---
 
+## 📁 Project Structure
+
+```
+weather-data-analysis-dashboard-power-bi-project-4/
+│
+├── 📁 Backgrounds/
+│   └── [dashboard background images]
+│
+├── 📁 Dashboard/
+│   └── [📄 weather-report.pbix(main Power BI dashboard file)]
+│
+├── 📁 Screenshots/
+│   └── [various project screenshots]
+│
+├── 📄 README.md
+│   └── (project documentation + key insights added)
+│
+├── 📄 LICENSE
+│   └── (MIT License)
+
+```
+---
+
+
