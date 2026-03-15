@@ -9,7 +9,7 @@ The project demonstrates how **data visualization and business intelligence tool
 
 ---
 
-# 🎯 Project Objectives
+## 🎯 Project Objectives
 
 The main objectives of this project were to:
 
