@@ -1,5 +1,7 @@
 # 🌤 Weather Analytics Dashboard | Power BI
 
+## 📌 Project Overview
+
 An interactive **Weather Analytics Dashboard** built using **Microsoft Power BI** to visualize real-time weather conditions, forecast trends, and air quality metrics.  
 This dashboard transforms raw weather data into clear and actionable insights through dynamic visualizations and modern UI design.
 
