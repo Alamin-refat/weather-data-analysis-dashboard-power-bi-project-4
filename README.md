@@ -149,5 +149,37 @@ To enhance the depth and functionality of this dashboard, the following features
 
 ---
 
+## 👤 Author
 
+**Alamin Refat**
+
+**Data Analyst | Machine Learning Engineer** Passionate about turning raw data into meaningful stories through **Advanced Data Analysis** and **Business Intelligence**. I focus on creating **interactive dashboards** and **modular ML projects** that bridge the gap between technical data and business strategy.
+
+Expertise in: **Microsoft Excel (Advanced), SQL, Python, Power BI, Tableau and Machine Learning.**
+
+---
+
+### 🔗 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Alamin--refat-black?logo=github)](https://github.com/Alamin-refat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alamin%20Refat-blue?logo=linkedin)](https://www.linkedin.com/in/alaminrefat1/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white)](mailto:alaminrefat2017@gmail.com)
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider **starring the repository** to support the work.
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this project for personal or commercial purposes, provided that proper credit is given to the original author.
+
+See the LICENSE file for more details.
+
+---
 
