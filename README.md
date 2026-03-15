@@ -89,3 +89,11 @@ Displays daily **sunrise and sunset times** to provide additional environmental 
 A percentage-based visualization indicating the **chance of rainfall across different days of the week.**
 
 ---
+
+## 💡 Key Insights
+- Identified the specific time intervals where temperature peaks occur.
+- Analyzed the correlation between high wind speeds and humidity levels.
+- Recognized patterns in temperature drops during specific seasonal cycles.
+
+---
+
