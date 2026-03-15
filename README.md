@@ -20,3 +20,72 @@ The main objectives of this project were to:
 - Strengthen **data visualization and dashboard design skills**
 
 ---
+
+## 📊 Dashboard Overview
+
+This dashboard provides a comprehensive overview of weather conditions including:
+
+- Current temperature and weather status
+- 7-day temperature forecast trend
+- Air Quality Index (AQI) analysis
+- Sunrise and sunset time tracking
+- Rain probability insights
+- Key environmental indicators such as humidity, wind speed, visibility, pressure, and UV index
+
+The goal of this project is to showcase **Power BI dashboard design skills, data storytelling, and interactive visualization techniques.**
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Microsoft Power BI**
+- **Power Query**
+- **Data Modeling**
+- **DAX (Data Analysis Expressions)**
+- **Data Visualization**
+
+---
+
+## 📈 Key Dashboard Features
+
+### 🌡 Current Weather Summary
+Displays real-time weather metrics including:
+- Temperature
+- Weather condition
+- Humidity
+- Wind speed
+- Visibility
+- Atmospheric pressure
+- UV index
+- Precipitation level
+
+---
+
+### 📉 7-Day Temperature Forecast
+A line chart visualizes the **weekly temperature trend**, helping users quickly understand temperature fluctuations across the week.
+
+---
+
+### 🌬 Air Quality Index (AQI)
+Interactive visualization showing:
+- AQI status indicator
+- PM10
+- PM2.5
+- NO₂
+- CO
+- SO₂
+- O₃
+
+This section helps monitor **air pollution levels and environmental health.**
+
+---
+
+### 🌅 Sunrise & Sunset Tracker
+Displays daily **sunrise and sunset times** to provide additional environmental context.
+
+---
+
+### 🌧 Rain Probability
+A percentage-based visualization indicating the **chance of rainfall across different days of the week.**
+
+---
