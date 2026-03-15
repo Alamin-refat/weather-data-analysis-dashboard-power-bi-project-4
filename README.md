@@ -119,5 +119,23 @@ weather-data-analysis-dashboard-power-bi-project-4/
 
 ```
 ---
+## 🚀 How to Use
+
+1. Download the `.pbix` file from this repository
+2. Open it in **Power BI Desktop**
+3. Explore the interactive visuals and insights
+
+---
+
+## 💡 Key Learning Outcomes
+
+- Power BI dashboard design best practices  
+- Data transformation using Power Query  
+- Creating calculated measures using DAX  
+- Designing modern and interactive BI dashboards  
+- Visual storytelling with data  
+
+---
+
 
 
