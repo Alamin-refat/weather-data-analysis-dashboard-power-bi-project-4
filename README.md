@@ -1,5 +1,13 @@
 # 🌤 Weather Analytics Dashboard | Power BI
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-orange)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-purple)
+![DAX](https://img.shields.io/badge/DAX-Analytics-green)
+![Power Query](https://img.shields.io/badge/Power-Query-informational)
+![Project Status](https://img.shields.io/badge/Project-Completed-success)
+
 ## 📌 Project Overview
 
 An interactive **Weather Analytics Dashboard** built using **Microsoft Power BI** to visualize real-time weather conditions, forecast trends, and air quality metrics.  
